@@ -26,8 +26,8 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tamaño Cancha<br>2. CRUD Material Cancha<br>3. CRUD Agenda<br>4. CRUD Usuario|
-|CRUD dependiente|1. CRUD Cancha {depende de} CRUD Tamaño Cancha y Material Cancha<br>2. CRUD Reserva {depende de} CRUD Cancha, Agenda y Usuario|
+|CRUD simple|1. CRUD Tamaño Cancha<br>2. CRUD Material Cancha<br>3. CRUD Complejo<br>4. CRUD Usuario|
+|CRUD dependiente|1. CRUD Cancha {depende de} CRUD Tamaño Cancha y Material Cancha<br>2. CRUD Agenda {depende de} CRUD Complejo|
 |Listado<br>+<br>detalle| 1. Listado de Canchas libres filtrado por Material, Tamaño y fecha => detalle Crud Reserva<br> 2. Listado de Reservas filtrado por fecha: muestra número de Cancha, hora de inicio, hora de finalizado y nombre del Cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reservar una cancha.<br>2. Cancelar una reserva.<br>3. Enviar recordatorio de reserva a cliente por correo electrónico.|
 

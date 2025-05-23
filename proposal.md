@@ -34,7 +34,7 @@ Regularidad:
 Adicionales para Aprobación Directa:
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. <br>2. <br>3. <br>4. <br>5. <br>6. <br>7. |
+|CRUD |1. <br>2. <br>3. <br>4. <br>5.Pago con MP <br>6. <br>7. |
 |CUU/Epic|1. <br>2. <br>3. |
 
 ### Alcance Adicional Voluntario
